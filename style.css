@@ -1,0 +1,45 @@
+html{
+    front-size:62.5%;
+}
+body{
+   margin: 0;
+}
+ul{
+    display:flex;
+    list-style:none;
+    
+}
+nav{
+    display:flex;
+}
+.logo{
+    margin: 20px;
+}
+li{
+    margin-left: 40px;
+    margin-top: 15px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+.login{
+    background-color: #EB662B;
+    border: none;
+    color:white;
+    width: 70px;
+    height: 30px;
+    margin-top: -10px
+    ;
+}
+header{
+    background-color: #FEF7F4;
+}
+.title1{
+    display:flex;
+}
+.grand{
+    width: 50%;
+}
