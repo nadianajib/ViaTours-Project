@@ -39,6 +39,7 @@ header{
 }
 .title1{
     display:flex;
+<<<<<<< HEAD
     
     margin-right: 260px;
 }
@@ -90,3 +91,9 @@ footer{
 }
 
 
+=======
+}
+.grand{
+    width: 50%;
+}
+>>>>>>> 5e0b1ebc43219e59598d614679223fa5d293204c
